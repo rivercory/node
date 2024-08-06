@@ -75,7 +75,7 @@ html {
 }
 
 body {
-  font-family: Lato, "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Verdana, Tahoma, sans-serif;
+  font-family: Poppins, "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Verdana, Tahoma, sans-serif;
   margin: 0;
   padding: 0;
   color: var(--color-text-primary);
